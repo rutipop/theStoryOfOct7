@@ -1,24 +1,2 @@
-# my-vue-project
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# theStoryOfOct7
+<img width="928" alt="Screenshot 2023-11-18 at 12 10 34" src="https://github.com/rutipop/theStoryOfOct7/assets/29456431/3605b2ce-1843-4146-9f15-77d3c59f0487">
